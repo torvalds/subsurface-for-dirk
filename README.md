@@ -38,7 +38,7 @@ You can get the sources to the latest development version from the git
 repository:
 
 ```
-git clone https://github.com/Subsurface/subsurface.git
+git clone https://github.com/torvalds/subsurface-for-dirk.git
 ```
 
 You can also fork the repository and browse the sources at the same site,
